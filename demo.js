@@ -14,3 +14,5 @@ var y=addition(1,2)
 console.log("le resultat doit etre" + y);
 var x = addition2(20,35)
 console.log("le resultat est" + x);
+
+premier Test;
